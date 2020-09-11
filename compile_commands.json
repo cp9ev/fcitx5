@@ -1,0 +1,972 @@
+[
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/dbus/sdbus/bus.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/sdbus/bus.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/sdbus/bus.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/dbus/sdbus/message.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/sdbus/message.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/sdbus/message.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/cc -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -std=gnu99 -o CMakeFiles/Fcitx5Utils.dir/dbus/sdbus/objectvtablewrapper.c.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/sdbus/objectvtablewrapper.c",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/sdbus/objectvtablewrapper.c"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/dbus/sdbus/objectvtable_sdbus.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/sdbus/objectvtable_sdbus.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/sdbus/objectvtable_sdbus.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/event_sdevent.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/event_sdevent.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/event_sdevent.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/dbus/servicewatcher.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/servicewatcher.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/servicewatcher.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/dbus/matchrule.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/matchrule.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/matchrule.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/dbus/variant.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/variant.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/variant.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/dbus/objectvtable.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/objectvtable.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/dbus/objectvtable.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/stringutils.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/stringutils.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/stringutils.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/testing.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/testing.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/testing.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/key.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/key.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/key.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/cutf8.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/cutf8.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/cutf8.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/color.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/color.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/color.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/i18nstring.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/i18nstring.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/i18nstring.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/event_common.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/event_common.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/event_common.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/eventdispatcher.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/eventdispatcher.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/eventdispatcher.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/library.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/library.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/library.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/fs.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/fs.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/fs.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/standardpath.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/standardpath.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/standardpath.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/unixfd.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/unixfd.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/unixfd.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/utf8.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/utf8.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/utf8.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/connectableobject.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/connectableobject.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/connectableobject.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/element.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/element.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/element.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/i18n.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/i18n.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/i18n.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/inputbuffer.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/inputbuffer.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/inputbuffer.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/log.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/log.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/log.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Utils_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Utils.dir/misc.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/misc.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/misc.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFcitx5Config_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Config.dir/rawconfig.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/rawconfig.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/rawconfig.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFcitx5Config_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Config.dir/option.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/option.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/option.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFcitx5Config_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Config.dir/configuration.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/configuration.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/configuration.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFcitx5Config_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Config.dir/marshallfunction.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/marshallfunction.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/marshallfunction.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFcitx5Config_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Config.dir/iniparser.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/iniparser.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/iniparser.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFcitx5Config_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Config.dir/dbushelper.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/dbushelper.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/dbushelper.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/addoninfo.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addoninfo.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addoninfo.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/instance.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/instance.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/instance.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/inputcontextmanager.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputcontextmanager.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputcontextmanager.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/inputcontextproperty.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputcontextproperty.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputcontextproperty.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/focusgroup.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/focusgroup.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/focusgroup.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/inputcontext.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputcontext.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputcontext.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/surroundingtext.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/surroundingtext.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/surroundingtext.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/addonloader.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addonloader.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addonloader.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/addonmanager.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addonmanager.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addonmanager.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/addoninstance.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addoninstance.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addoninstance.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/addonfactory.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addonfactory.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/addonfactory.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/inputmethodgroup.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputmethodgroup.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputmethodgroup.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/inputmethodmanager.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputmethodmanager.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputmethodmanager.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/inputmethodentry.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputmethodentry.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputmethodentry.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/globalconfig.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/globalconfig.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/globalconfig.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/text.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/text.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/text.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/event.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/event.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/event.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/action.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/action.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/action.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/menu.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/menu.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/menu.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/userinterface.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/userinterface.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/userinterface.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/userinterfacemanager.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/userinterfacemanager.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/userinterfacemanager.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/statusarea.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/statusarea.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/statusarea.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/inputpanel.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputpanel.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/inputpanel.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/candidatelist.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/candidatelist.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/candidatelist.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -DFcitx5Core_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/Fcitx5Core.dir/icontheme.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/icontheme.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/icontheme.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/display.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/display.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/display.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/outputinfomation.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/outputinfomation.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/outputinfomation.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_buffer.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_buffer.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_buffer.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_callback.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_callback.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_callback.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_compositor.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_compositor.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_compositor.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_data_device.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_data_device.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_data_device.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_data_device_manager.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_data_device_manager.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_data_device_manager.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_data_offer.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_data_offer.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_data_offer.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_data_source.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_data_source.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_data_source.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_keyboard.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_keyboard.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_keyboard.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_output.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_output.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_output.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_pointer.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_pointer.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_pointer.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_region.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_region.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_region.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_registry.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_registry.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_registry.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_seat.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_seat.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_seat.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_shell.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_shell.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_shell.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_shell_surface.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_shell_surface.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_shell_surface.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_shm.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_shm.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_shm.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_shm_pool.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_shm_pool.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_shm_pool.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_subcompositor.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_subcompositor.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_subcompositor.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_subsurface.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_subsurface.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_subsurface.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_surface.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_surface.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_surface.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandCore.dir/wl_touch.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_touch.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/wl_touch.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethod.dir/zwp_input_method_context_v1.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/zwp_input_method_context_v1.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/zwp_input_method_context_v1.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethod.dir/zwp_input_method_v1.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/zwp_input_method_v1.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/zwp_input_method_v1.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethod.dir/zwp_input_panel_surface_v1.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/zwp_input_panel_surface_v1.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/zwp_input_panel_surface_v1.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethod.dir/zwp_input_panel_v1.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/zwp_input_panel_v1.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/zwp_input_panel_v1.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method",
+  "command": "/usr/bin/cc -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fPIC -std=gnu99 -o CMakeFiles/Fcitx5WaylandInputMethod.dir/wayland-input-method-unstable-v1-protocol.c.o -c /home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method/wayland-input-method-unstable-v1-protocol.c",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method/wayland-input-method-unstable-v1-protocol.c"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethodV2.dir/zwp_input_popup_surface_v2.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_input_popup_surface_v2.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_input_popup_surface_v2.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethodV2.dir/zwp_input_method_keyboard_grab_v2.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_input_method_keyboard_grab_v2.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_input_method_keyboard_grab_v2.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethodV2.dir/zwp_input_method_manager_v2.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_input_method_manager_v2.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_input_method_manager_v2.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethodV2.dir/zwp_input_method_v2.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_input_method_v2.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_input_method_v2.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethodV2.dir/zwp_virtual_keyboard_manager_v1.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_virtual_keyboard_manager_v1.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_virtual_keyboard_manager_v1.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -fPIC -std=c++17 -o CMakeFiles/Fcitx5WaylandInputMethodV2.dir/zwp_virtual_keyboard_v1.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_virtual_keyboard_v1.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/zwp_virtual_keyboard_v1.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2",
+  "command": "/usr/bin/cc -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fPIC -std=gnu99 -o CMakeFiles/Fcitx5WaylandInputMethodV2.dir/wayland-input-method-unstable-v2-protocol.c.o -c /home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2/wayland-input-method-unstable-v2-protocol.c",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2/wayland-input-method-unstable-v2-protocol.c"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2",
+  "command": "/usr/bin/cc -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fvisibility=hidden -fPIC -std=gnu99 -o CMakeFiles/Fcitx5WaylandInputMethodV2.dir/wayland-virtual-keyboard-unstable-v1-protocol.c.o -c /home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2/wayland-virtual-keyboard-unstable-v1-protocol.c",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2/wayland-virtual-keyboard-unstable-v1-protocol.c"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/xcb",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dxcb_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/xcb.dir/xcbmodule.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbmodule.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbmodule.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/xcb",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dxcb_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/xcb.dir/xcbconnection.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbconnection.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbconnection.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/xcb",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dxcb_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/xcb.dir/xcbconvertselection.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbconvertselection.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbconvertselection.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/xcb",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dxcb_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/xcb.dir/xcbkeyboard.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbkeyboard.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbkeyboard.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/xcb",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dxcb_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/xcb.dir/xcbeventreader.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbeventreader.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb/xcbeventreader.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/dbus",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Ddbus_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/dbus.dir/dbusmodule.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus/dbusmodule.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus/dbusmodule.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/wayland",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dwayland_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/wayland.dir/waylandmodule.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland/waylandmodule.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland/waylandmodule.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/spell",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dspell_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/enchant-2 -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/spell.dir/spell.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/spell.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/spell.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/spell",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dspell_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/enchant-2 -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/spell.dir/spell-enchant.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/spell-enchant.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/spell-enchant.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/spell",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dspell_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/enchant-2 -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/spell.dir/spell-custom-dict.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/spell-custom-dict.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/spell-custom-dict.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/spell",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dspell_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/enchant-2 -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/spell.dir/spell-custom.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/spell-custom.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/spell-custom.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/spell/dict",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/comp-spell-dict.dir/comp_spell_dict.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/dict/comp_spell_dict.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell/dict/comp_spell_dict.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/notifications",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dnotifications_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/notifications.dir/notifications.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications/notifications.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications/notifications.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/notificationitem",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dnotificationitem_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/notificationitem.dir/notificationitem.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem/notificationitem.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem/notificationitem.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/notificationitem",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dnotificationitem_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/notificationitem.dir/dbusmenu.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem/dbusmenu.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem/dbusmenu.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/quickphrase",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dquickphrase_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/quickphrase.dir/quickphrase.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase/quickphrase.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase/quickphrase.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/quickphrase",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dquickphrase_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/quickphrase.dir/quickphraseprovider.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase/quickphraseprovider.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase/quickphraseprovider.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/unicode",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dunicode_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/clipboard -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/unicode.dir/unicode.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/unicode/unicode.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/unicode/unicode.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/unicode",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dunicode_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/clipboard -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/unicode.dir/charselectdata.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/unicode/charselectdata.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/unicode/charselectdata.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/clipboard",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dclipboard_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/clipboard.dir/clipboard.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/clipboard/clipboard.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/clipboard/clipboard.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/emoji",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Demoji_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/emoji.dir/emoji.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/emoji/emoji.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/emoji/emoji.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/emoji",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Demoji_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/emoji.dir/__/__/im/keyboard/xmlparser.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xmlparser.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xmlparser.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/modules/imselector",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dimselector_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/imselector.dir/imselector.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/modules/imselector/imselector.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/modules/imselector/imselector.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/xim",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dxim_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/xim.dir/xim.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/frontend/xim/xim.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/frontend/xim/xim.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/dbusfrontend",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Ddbusfrontend_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/dbusfrontend.dir/dbusfrontend.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/frontend/dbusfrontend/dbusfrontend.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/frontend/dbusfrontend/dbusfrontend.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dwaylandim_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/waylandim.dir/waylandim.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim/waylandim.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim/waylandim.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dwaylandim_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/waylandim.dir/waylandimserver.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim/waylandimserver.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim/waylandimserver.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dwaylandim_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/waylandim.dir/waylandimserverv2.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim/waylandimserverv2.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim/waylandimserverv2.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim",
+  "command": "/usr/bin/cc -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dwaylandim_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -Wall -Wextra  -fPIC -fvisibility=hidden -std=gnu99 -o CMakeFiles/waylandim.dir/wayland-text-input-unstable-v1-protocol.c.o -c /home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim/wayland-text-input-unstable-v1-protocol.c",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim/wayland-text-input-unstable-v1-protocol.c"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim",
+  "command": "/usr/bin/cc -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dwaylandim_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -Wall -Wextra  -fPIC -fvisibility=hidden -std=gnu99 -o CMakeFiles/waylandim.dir/wayland-text-input-unstable-v3-protocol.c.o -c /home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim/wayland-text-input-unstable-v3-protocol.c",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/waylandim/wayland-text-input-unstable-v3-protocol.c"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/frontend/ibusfrontend",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dibusfrontend_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -isystem /usr/include/uuid -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/ibusfrontend.dir/ibusfrontend.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/frontend/ibusfrontend/ibusfrontend.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/frontend/ibusfrontend/ibusfrontend.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/server",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/emoji -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase -isystem /usr/include/json-c -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/fcitx5.dir/main.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/server/main.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/server/main.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/server",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/emoji -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase -isystem /usr/include/json-c -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/fcitx5.dir/errorhandler.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/server/errorhandler.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/server/errorhandler.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/im/keyboard",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/emoji -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase -isystem /usr/include/json-c -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/keyboard.dir/keyboard.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/keyboard.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/keyboard.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/im/keyboard",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/emoji -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase -isystem /usr/include/json-c -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/keyboard.dir/isocodes.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/isocodes.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/isocodes.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/im/keyboard",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/emoji -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase -isystem /usr/include/json-c -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/keyboard.dir/xkbrules.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xkbrules.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xkbrules.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/im/keyboard",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/spell -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notifications -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/emoji -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase -isystem /usr/include/json-c -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/keyboard.dir/xmlparser.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xmlparser.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xmlparser.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/classicui.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/classicui.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/classicui.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/xcbui.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbui.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbui.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/xcbwindow.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbwindow.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbwindow.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/window.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/window.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/window.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/theme.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/theme.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/theme.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/xcbtraywindow.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbtraywindow.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbtraywindow.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/inputwindow.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/inputwindow.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/inputwindow.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/xcbinputwindow.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbinputwindow.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbinputwindow.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/xcbmenu.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbmenu.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/xcbmenu.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/waylandui.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandui.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandui.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/waylandwindow.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandwindow.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandwindow.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/waylandeglwindow.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandeglwindow.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandeglwindow.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/waylandshmwindow.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandshmwindow.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandshmwindow.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/waylandpointer.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandpointer.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandpointer.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/buffer.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/buffer.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/buffer.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/classic",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -DFMT_HEADER_ONLY=1 -Dclassicui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/xcb -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/notificationitem -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/wayland -I/home/tfios/WorkSpace/C++/fcitx5/src/frontend/waylandim -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/core/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/core -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2 -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-wayland/input-method-v2/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-wayland/input-method-v2 -isystem /usr/include/cairo -isystem /usr/include/glib-2.0 -isystem /usr/lib/glib-2.0/include -isystem /usr/include/pixman-1 -isystem /usr/include/freetype2 -isystem /usr/include/libpng16 -isystem /usr/include/harfbuzz -isystem /usr/include/pango-1.0 -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/fribidi -isystem /usr/include/gdk-pixbuf-2.0 -isystem /usr/include/gio-unix-2.0 -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -pthread -std=c++17 -o CMakeFiles/classicui.dir/waylandinputwindow.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandinputwindow.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/classic/waylandinputwindow.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/ui/kimpanel",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -Dkimpanel_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/dbus -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/kimpanel.dir/kimpanel.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/ui/kimpanel/kimpanel.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/ui/kimpanel/kimpanel.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/src/tools",
+  "command": "/usr/bin/c++ -DFCITX_GETTEXT_DOMAIN=\\\"fcitx5\\\" -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/fcitx5-remote.dir/remote.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/tools/remote.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/tools/remote.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/testing/testfrontend",
+  "command": "/usr/bin/c++ -Dtestfrontend_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testfrontend.dir/testfrontend.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/testing/testfrontend/testfrontend.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/testing/testfrontend/testfrontend.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/testing/testim",
+  "command": "/usr/bin/c++ -Dtestim_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testim.dir/testim.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/testing/testim/testim.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/testing/testim/testim.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/testing/testui",
+  "command": "/usr/bin/c++ -Dtestui_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testui.dir/testui.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/testing/testui/testui.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/testing/testui/testui.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/testing/testim -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testxim.dir/testxim.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testxim.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testxim.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/quickphrase -I/home/tfios/WorkSpace/C++/fcitx5/testing/testfrontend -I/home/tfios/WorkSpace/C++/fcitx5/testing/testim -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testquickphrase.dir/testquickphrase.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testquickphrase.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testquickphrase.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testcandidatelist.dir/testcandidatelist.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testcandidatelist.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testcandidatelist.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testevent.dir/testevent.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testevent.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testevent.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testi18nstring.dir/testi18nstring.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testi18nstring.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testi18nstring.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testutf8.dir/testutf8.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testutf8.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testutf8.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testkey.dir/testkey.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testkey.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testkey.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/src/modules/emoji -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testemoji.dir/testemoji.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testemoji.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testemoji.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testdbus.dir/testdbus.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testdbus.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testdbus.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testlist.dir/testlist.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testlist.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testlist.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testflags.dir/testflags.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testflags.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testflags.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testcolor.dir/testcolor.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testcolor.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testcolor.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++ -D_TEST_XKBRULES -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/test/../src -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/json-c -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testisocodes.dir/testisocodes.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testisocodes.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testisocodes.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++ -D_TEST_XKBRULES -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/test/../src -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -isystem /usr/include/json-c -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testisocodes.dir/__/src/im/keyboard/isocodes.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/isocodes.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/isocodes.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testinputcontext.dir/testinputcontext.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testinputcontext.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testinputcontext.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testeventdispatcher.dir/testeventdispatcher.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testeventdispatcher.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testeventdispatcher.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/teststandardpath.dir/teststandardpath.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/teststandardpath.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/teststandardpath.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testmetastring.dir/testmetastring.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testmetastring.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testmetastring.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++ -D_TEST_XKBRULES -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/test/../src -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testxkbrules.dir/testxkbrules.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testxkbrules.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testxkbrules.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++ -D_TEST_XKBRULES -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/test/../src -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testxkbrules.dir/__/src/im/keyboard/xkbrules.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xkbrules.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xkbrules.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++ -D_TEST_XKBRULES -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/test/../src -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testxkbrules.dir/__/src/im/keyboard/xmlparser.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xmlparser.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/src/im/keyboard/xmlparser.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testunixfd.dir/testunixfd.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testunixfd.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testunixfd.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -I/home/tfios/WorkSpace/C++/fcitx5/testing/testfrontend -I/home/tfios/WorkSpace/C++/fcitx5/testing/testim -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testunicode.dir/testunicode.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testunicode.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testunicode.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testicontheme.dir/testicontheme.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testicontheme.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testicontheme.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testhandlertable.dir/testhandlertable.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testhandlertable.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testhandlertable.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testinputbuffer.dir/testinputbuffer.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testinputbuffer.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testinputbuffer.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testfs.dir/testfs.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testfs.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testfs.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testlog.dir/testlog.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testlog.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testlog.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testconfig.dir/testconfig.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testconfig.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testconfig.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testlibrary.dir/testlibrary.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testlibrary.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testlibrary.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testsignals.dir/testsignals.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testsignals.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testsignals.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testmenu.dir/testmenu.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testmenu.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testmenu.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testconfigdbus.dir/testconfigdbus.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testconfigdbus.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testconfigdbus.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testdbusmessage.dir/testdbusmessage.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testdbusmessage.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testdbusmessage.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testsurroundingtext.dir/testsurroundingtext.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testsurroundingtext.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testsurroundingtext.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testaddon.dir/testaddon.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testaddon.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testaddon.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/teststringutils.dir/teststringutils.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/teststringutils.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/teststringutils.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testuserinterfacemanager.dir/testuserinterfacemanager.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testuserinterfacemanager.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testuserinterfacemanager.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testservicewatcher.dir/testservicewatcher.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testservicewatcher.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testservicewatcher.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test",
+  "command": "/usr/bin/c++  -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/testelement.dir/testelement.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/testelement.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/testelement.cpp"
+},
+{
+  "directory": "/home/tfios/WorkSpace/C++/fcitx5-build/test/addon",
+  "command": "/usr/bin/c++ -Ddummyaddon_EXPORTS -I/home/tfios/WorkSpace/C++/fcitx5-build -I/home/tfios/WorkSpace/C++/fcitx5-build/test -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-config/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-config -I/home/tfios/WorkSpace/C++/fcitx5/src/lib/fcitx-utils/.. -I/home/tfios/WorkSpace/C++/fcitx5-build/src/lib/fcitx-utils -Wall -Wextra  -fPIC -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/dummyaddon.dir/dummyaddon.cpp.o -c /home/tfios/WorkSpace/C++/fcitx5/test/addon/dummyaddon.cpp",
+  "file": "/home/tfios/WorkSpace/C++/fcitx5/test/addon/dummyaddon.cpp"
+}
+]

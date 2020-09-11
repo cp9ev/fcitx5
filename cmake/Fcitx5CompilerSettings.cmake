@@ -13,6 +13,8 @@ set(CMAKE_MODULE_LINKER_FLAGS "-Wl,--no-undefined -Wl,--as-needed ${CMAKE_MODULE
 set(CMAKE_C_VISIBILITY_PRESET hidden)
 set(CMAKE_CXX_VISIBILITY_PRESET hidden)
 set(CMAKE_VISIBILITY_INLINES_HIDDEN On)
+set(CMAKE_EXPORT_COMPILE_COMMANDS TRUE)
+
 
 if (POLICY CMP0063)
     # No sane project should be affected by CMP0063, so suppress the warnings

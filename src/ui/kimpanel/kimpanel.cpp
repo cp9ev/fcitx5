@@ -52,7 +52,7 @@ public:
                 y = inputContext->cursorRect().top(),
                 w = inputContext->cursorRect().width(),
                 h = inputContext->cursorRect().height();
-
+        FCITX_INFO() << "updateCursor";
         msg << x << y << w << h;
         msg.send();
     }
@@ -223,7 +223,7 @@ void Kimpanel::updateInputPanel(InputContext *inputContext) {
     lastInputContext_ = inputContext->watch();
     auto *instance = this->instance();
     auto &inputPanel = inputContext->inputPanel();
-
+    FCITX_INFO() << "upadateInputPanel";
     auto preedit = instance->outputFilter(inputContext, inputPanel.preedit());
     auto auxUp = instance->outputFilter(inputContext, inputPanel.auxUp());
     auto preeditString = preedit.toString();
@@ -321,7 +321,7 @@ void Kimpanel::updateInputPanel(InputContext *inputContext) {
 std::string Kimpanel::inputMethodStatus(InputContext *ic) {
     std::string icon = "input-keyboard";
     std::string label;
-    std::string description = _("Not available");
+    std::string description = _("You Are HandSome but It's not available");
     if (ic) {
         const auto *entry = instance_->inputMethodEntry(ic);
         if (entry) {
