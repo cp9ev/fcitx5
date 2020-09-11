@@ -5,7 +5,10 @@
  *
  */
 #include "waylandinputwindow.h"
+#include <stdio.h>
+#include <cstdio>
 #include <linux/input-event-codes.h>
+#include "fcitx-utils/log.h"
 #include "waylandim_public.h"
 #include "waylandui.h"
 #include "waylandwindow.h"
@@ -60,6 +63,7 @@ WaylandInputWindow::WaylandInputWindow(WaylandUI *ui)
             repaint();
         }
     });
+    FCITX_INFO() << "initPanel";
     initPanel();
 }
 
@@ -79,6 +83,7 @@ void WaylandInputWindow::initPanel() {
 void WaylandInputWindow::resetPanel() { panelSurface_.reset(); }
 
 void WaylandInputWindow::update(fcitx::InputContext *ic) {
+    FCITX_INFO() << "666";
     InputWindow::update(ic);
     if (ic->frontend() == std::string_view("wayland_v2")) {
         if (ic != v2IC_.get()) {

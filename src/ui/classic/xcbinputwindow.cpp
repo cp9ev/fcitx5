@@ -9,6 +9,7 @@
 #include <pango/pangocairo.h>
 #include <xcb/xcb_aux.h>
 #include <xcb/xcb_icccm.h>
+#include "fcitx-utils/log.h"
 #include "fcitx-utils/rect.h"
 
 namespace fcitx::classicui {
@@ -42,11 +43,26 @@ void XCBInputWindow::postCreateWindow() {
 }
 
 void XCBInputWindow::updatePosition(InputContext *inputContext) {
+
     if (!visible()) {
+        return;
+    }
+
+    if (*parent_->config().useCustomPostion) {
+        xcb_params_configure_window_t wc;
+        wc.x = *parent_->config().axisx;
+        wc.y = *parent_->config().axisy;
+        wc.stack_mode = XCB_STACK_MODE_ABOVE;
+        xcb_aux_configure_window(ui_->connection(), wid_,
+                                 XCB_CONFIG_WINDOW_STACK_MODE |
+                                     XCB_CONFIG_WINDOW_X | XCB_CONFIG_WINDOW_Y,
+                                 &wc);
+        xcb_flush(ui_->connection());
         return;
     }
     int x, y, h;
 
+    // refresh input method position
     x = inputContext->cursorRect().left();
     y = inputContext->cursorRect().top();
     h = inputContext->cursorRect().height();

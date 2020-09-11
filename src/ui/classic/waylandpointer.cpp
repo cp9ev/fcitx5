@@ -6,6 +6,7 @@
  */
 
 #include "waylandpointer.h"
+#include "fcitx-utils/log.h"
 #include "waylandwindow.h"
 #include "wl_surface.h"
 
@@ -23,6 +24,7 @@ WaylandPointer::WaylandPointer(wayland::WlSeat *seat) {
 }
 
 void WaylandPointer::initPointer() {
+    FCITX_INFO() << "initPointer";
     pointer_->enter().connect([this](uint32_t, wayland::WlSurface *surface,
                                      wl_fixed_t sx, wl_fixed_t sy) {
         auto *window = static_cast<WaylandWindow *>(surface->userData());

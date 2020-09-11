@@ -416,6 +416,7 @@ void InputWindow::paint(cairo_t *cr, unsigned int width, unsigned int height) {
     }
 
     // Move position to the right place.
+    // Tfios destory
     cairo_translate(cr, *margin.marginLeft, *margin.marginTop);
 
     cairo_save(cr);
@@ -626,6 +627,7 @@ int InputWindow::highlight() const {
 }
 
 bool InputWindow::hover(int x, int y) {
+    FCITX_INFO() << "hover";
     bool needRepaint = false;
     auto oldHighlight = highlight();
     hoverIndex_ = -1;

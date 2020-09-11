@@ -11,6 +11,7 @@
 
 #include "fcitx-config/configuration.h"
 #include "fcitx-config/iniparser.h"
+#include "fcitx-config/option.h"
 #include "fcitx-utils/event.h"
 #include "fcitx-utils/i18n.h"
 #include "fcitx-utils/log.h"
@@ -64,21 +65,24 @@ private:
     std::vector<std::pair<std::string, std::string>> themes_;
 };
 
-FCITX_CONFIGURATION(ClassicUIConfig,
-                    Option<bool> verticalCandidateList{
-                        this, "Vertical Candidate List",
-                        _("Vertical Candidate List"), false};
-                    Option<bool> perScreenDPI{this, "PerScreenDPI",
-                                              _("Use Per Screen DPI"), true};
-                    Option<bool> useWheelForPaging{
-                        this, "WheelForPaging",
-                        _("Use mouse wheel to go to prev or next page"), true};
+FCITX_CONFIGURATION(
+    ClassicUIConfig,
+    Option<bool> verticalCandidateList{this, "Vertical Candidate List",
+                                       _("Vertical Candidate List"), false};
+    Option<bool> perScreenDPI{this, "PerScreenDPI", _("Use Per Screen DPI"),
+                              true};
+    Option<bool> useCustomPostion{this, "useCustomPostion",
+                                  _("Use Custom inputWindows Postion"), false};
+    Option<int> axisx{this, "X", _("x"), 0};
+    Option<int> axisy{this, "y", _("y"), 0}; Option<bool> useWheelForPaging{
+        this, "WheelForPaging", _("Use mouse wheel to go to prev or next page"),
+        true};
 
-                    OptionWithAnnotation<std::string, FontAnnotation> font{
-                        this, "Font", "Font", "Sans 9"};
-                    Option<std::string, NotEmpty,
-                           DefaultMarshaller<std::string>, ThemeAnnotation>
-                        theme{this, "Theme", _("Theme"), "default"};);
+    OptionWithAnnotation<std::string, FontAnnotation> font{this, "Font", "Font",
+                                                           "Sans 9"};
+    Option<std::string, NotEmpty, DefaultMarshaller<std::string>,
+           ThemeAnnotation>
+        theme{this, "Theme", _("Theme"), "default"};);
 
 class ClassicUI final : public UserInterface {
 public:
